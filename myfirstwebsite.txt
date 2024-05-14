@@ -3,4 +3,4 @@ MEMBUAT WEBSITE SEDERHANA
 - HTML
 - CSS
 - JavaScript
-- Belajar Github
+- Github
