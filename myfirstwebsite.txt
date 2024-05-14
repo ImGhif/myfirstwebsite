@@ -5,6 +5,7 @@ Menambahkan Gambar
 
 - HTML
 - CSS
+- Laravel
 - JavaScript
 - Github
 - Git
