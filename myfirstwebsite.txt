@@ -1,3 +1,6 @@
 MEMBUAT WEBSITE SEDERHANA
 
-- Belaar Github
+- HTML
+- CSS
+- JavaScript
+- Belajar Github
