@@ -1,7 +1,9 @@
 MEMBUAT WEBSITE SEDERHANA
 
+Menambahkan Artikel
+
 - HTML
 - CSS
+- Laravel
 - JavaScript
 - Github
-- Git
