@@ -1,5 +1,8 @@
 MEMBUAT WEBSITE SEDERHANA
 
+Membuat Artikel
+Menambahkan Gambar
+
 - HTML
 - CSS
 - JavaScript
