@@ -4,3 +4,4 @@ MEMBUAT WEBSITE SEDERHANA
 - CSS
 - JavaScript
 - Github
+- Git
