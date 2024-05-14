@@ -1,9 +1,12 @@
 MEMBUAT WEBSITE SEDERHANA
 
-Menambahkan Artikel
+Membuat Artikel
+Menambahkan Gambar
 
 - HTML
 - CSS
 - Laravel
 - JavaScript
 - Github
+- Git
+- React
